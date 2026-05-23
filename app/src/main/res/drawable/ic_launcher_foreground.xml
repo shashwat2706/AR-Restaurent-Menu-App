@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Fine Porcelain Ring (Bronze Gold) -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M 54 20 A 34 34 0 1 0 54 88 A 34 34 0 1 0 54 20 Z" />
+        
+    <!-- Inner Fine Plate Ring -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M 54 27 A 27 27 0 1 0 54 81 A 27 27 0 1 0 54 27 Z" />
+        
+    <!-- Fork Silhouette (Left) -->
+    <!-- Prong base: X=32, Y=36 to 48 -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M 33 34 L 33 46 Q 33 53 37 53 L 37 72 C 37 74 39 74 39 72 L 39 53 Q 43 53 43 46 L 43 34 C 43 33 42 33 42 34 L 42 44 M 40 34 L 40 44 M 38 34 L 38 44" />
+        
+    <!-- Gourmet Knife (Right) -->
+    <!-- Blade: X=71 to 75, Y=34 to 51 -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M 72 34 C 69 38 69 49 69 53 L 73 53 L 73 72 C 73 74 75 74 75 72 L 75 34 C 75 33 73 33 72 34 Z" />
+
+    <!-- Center Scanner sparkles -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 54 44 L 56 49 L 61 51 L 56 53 L 54 58 L 52 53 L 47 51 L 52 49 Z" />
+</vector>

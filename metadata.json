@@ -1,0 +1,6 @@
+{
+  "name": "AR Restaurant Menu",
+  "description": "Visualize 3D dishes in AR, browse the menu, customize portions, check ingredients, and place orders directly from active workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
